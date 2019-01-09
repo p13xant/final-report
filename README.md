@@ -21,8 +21,7 @@
 #### [x] Εφάρμοσα responsive design στη σελίδα (Bootstrap) και κυρίως στο αρχικό menu έτσι ώστε να προσαρμόζεται σε οθόνες διαφορετικών διαστάσεων.
 #### link εκτελέσιμο:
 https://p13xant.github.io/D3js-US-educational-attainment/
-#### Link στο κλαδί του κώδικα:
-https://github.com/p13xant/D3js-US-educational-attainment/tree/2013155
+
 #### Link στο αποθετήριο του κώδικα:
 https://github.com/p13xant/D3js-US-educational-attainment/tree/2013155
 
