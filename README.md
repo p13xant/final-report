@@ -26,7 +26,7 @@ https://p13xant.github.io/D3js-US-educational-attainment/
 #### Link στο κλαδί του κώδικα:
 https://github.com/p13xant/D3js-US-educational-attainment/tree/2013155
 #### Link στο αποθετήριο του κώδικα:
-https://github.com/p13xant/D3js-US-educational-attainment
+https://github.com/p13xant/D3js-US-educational-attainment/tree/2013155
 
 
 ### Μέθοδος και τεχνικές ανάπτυξης
